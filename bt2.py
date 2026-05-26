@@ -50,7 +50,7 @@ while True:
                         f"Tên shop sau khi loại bỏ khoảng trắng đầu và cuối: {shop_name}\n"
                         f"Tên sản phẩm sau khi loại bỏ khoảng trắng đầu và cuối, viết hoa chữ cái đầu mỗi từ: {product_name}\n"
                         f"Mô tả sản phẩm sau khi loại bỏ khoảng trắng đầu và cuối: {product_description}\n"
-                        f"Độ dài mô tả sản phẩm: {len(product_description)}"
+                        f"Độ dài mô tả sản phẩm: {len(product_description)}\n"
                         f"Danh mục sản phẩm sau khi chuẩn hóa khoảng trắng, chuyển hoá thành chữ thường: {product_category}\n"
                         f"Danh sách từ khóa sau khi chuẩn hóa khoảng trắng: {keyword_list}\n"
                         f"Số lượng từ khóa tìm kiếm: {len(keyword_list.split(","))}\n"
